@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Password_Generator.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Symbols" Type="System.String" Scope="User">
+      <Value Profile="(Default)">`~!@#$%^&amp;*()-_=+[]\{}|;':",./&lt;&gt;?</Value>
+    </Setting>
+    <Setting Name="KeyboardLayout" Type="System.String" Scope="User">
+      <Value Profile="(Default)">QWERTY</Value>
+    </Setting>
+    <Setting Name="Rules" Type="System.String" Scope="User">
+      <Value Profile="(Default)">False|False|False</Value>
+    </Setting>
+    <Setting Name="NumberOfChars" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">6</Value>
+    </Setting>
+    <Setting Name="CharsToUse" Type="System.String" Scope="User">
+      <Value Profile="(Default)">False|True|True|True</Value>
+    </Setting>
+    <Setting Name="MinDigits" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="MinLower" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="MinUpper" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="MinSymbols" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
